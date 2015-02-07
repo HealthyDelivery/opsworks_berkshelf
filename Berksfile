@@ -8,3 +8,4 @@ cookbook 'opsworks_nodejs',      git: 'https://github.com/HealthyDelivery/opswor
 cookbook 'chef_cronjob',         git: 'https://github.com/HealthyDelivery/chef_cronjob.git'
 cookbook 'chef_cloudwatchlogs',  git: 'https://github.com/HealthyDelivery/chef_cloudwatchlogs.git'
 cookbook 'le_chef',              git: 'https://github.com/logentries/le_chef'
+cookbook 'opsworks-layer-json-attributes', git: 'https://github.com/jcoleman/opsworks-layer-json-attributes-cookbook'
