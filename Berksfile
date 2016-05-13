@@ -2,7 +2,7 @@ source "https://supermarket.chef.io"
 
 metadata
 
-
+cookbook 'build-essential', '= 3.2.0'
 cookbook 'nodejs', '~> 2.2.0'
 cookbook 'logentries_agent', '0.2.5'
 cookbook 'opsworks-layer-json-attributes', git: 'https://github.com/HealthyDelivery/opsworks-layer-json-attributes-cookbook'
