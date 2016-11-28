@@ -4,6 +4,7 @@ metadata
 
 cookbook 'apt', '= 3.0.0'
 cookbook 'build-essential', '= 3.2.0'
+cookbook 'yum-epel', '= 0.7.1'
 cookbook 'nodejs', '~> 2.2.0'
 cookbook 'logentries_agent', '0.2.5'
 cookbook 'opsworks-layer-json-attributes', git: 'https://github.com/HealthyDelivery/opsworks-layer-json-attributes-cookbook', ref: '09bf7adc1e931e05241893737e4efdee1b85e893'
