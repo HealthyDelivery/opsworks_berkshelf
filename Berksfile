@@ -4,6 +4,7 @@ metadata
 
 cookbook 'apt', '= 3.0.0'
 cookbook 'build-essential', '= 3.2.0'
+cookbook 'yum', '= 3.13.0'
 cookbook 'yum-epel', '= 0.7.1'
 cookbook 'ohai', '= 3.0.1'
 cookbook 'nodejs', '~> 2.2.0'
